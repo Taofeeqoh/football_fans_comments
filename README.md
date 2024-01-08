@@ -25,4 +25,3 @@ Sentiment analysis reveals that around 64.65% of comments are positive, 26.39% a
 The unknown gender category stands out for predominantly positive comments, warranting further investigation. Negative sentiment comments attract higher engagement, suggesting a need to address negative sentiments and foster positive community engagement in social media strategies.
 The study lays a foundation for understanding football fan engagement, emphasizing the importance of recognizing diverse user segments. Continuous monitoring and additional analyses will contribute to a more nuanced understanding of fan behavior over time.
 
-Using Sentiment Analysis Approach With nltk SentimentIntensityAnalyzer
